@@ -1,4 +1,4 @@
-package com.srini.Concurrency;
+package com.srini.concurrency;
 
 /**
  * Hello world!
